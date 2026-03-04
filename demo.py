@@ -27,4 +27,4 @@ st.line_chart(chart_data)
 with st.sidebar:
     st.header("側邊欄設定")
     st.write("這裡可以放參數設定或導覽列。")
-    st.button("沒用的按鈕")
+    st.button("useless")
